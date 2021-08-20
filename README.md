@@ -17,14 +17,13 @@ extra repo <img src = "https://github-readme-stats.vercel.app/api/pin/?username=
 - ⚡ Fun fact: ...
 <div></div>
 -->
-<div>
-  <div align="left">
-    <img src = "https://github-readme-stats.vercel.app/api?username=albertplata&show_icons=true&theme=tokyonight&hide=stars,prs,contribs">
-  </div>
-  <div align="right">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=albertplata&layout=compact&theme=jolly">
-  </div>
-</div>
+- 🔭 I’m currently working on my Python Skills
+- 🌱 I’m currently learning about Data and Tools
+- 🤔 I’m looking for help with haskell
+- 💬 Ask me about JavaScript ecosystem
+- ⚡ Fun fact: I will never have enough musical instruments
+<img src = "https://github-readme-stats.vercel.app/api?username=albertplata&show_icons=true&theme=tokyonight&hide=stars,prs,contribs">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=albertplata&layout=compact&theme=jolly">
 
 
 
