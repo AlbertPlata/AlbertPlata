@@ -22,7 +22,7 @@ extra repo <img src = "https://github-readme-stats.vercel.app/api/pin/?username=
 Bugs solved, mysticism, lots of coffee and a big smile describe me
 -->
 # Welcome bro
-I am an enthusiastic web developer of the Data world and the JS ecosystem, currently a Data Engineer and a Data Science student
+I am an enthusiastic web developer of the Data world and the JS ecosystem, currently a **Data Engineer Intern** and a Data Science student
 
 Some words that define me:
 - 🐞🕵 Bugs solved
