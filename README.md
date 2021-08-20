@@ -18,8 +18,13 @@ extra repo <img src = "https://github-readme-stats.vercel.app/api/pin/?username=
 - 🤔 I’m looking for help with haskell
 - 💬 Ask me about JavaScript ecosystem
 - ⚡ Fun fact: I will never have enough musical instruments
+<img src = "https://github-readme-stats.vercel.app/api?username=albertplata&show_icons=true&theme=tokyonight&hide=stars,prs,contribs">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=albertplata&layout=compact&theme=jolly">
 <div></div>
 Bugs solved, mysticism, lots of coffee and a big smile describe me
+
+
+<img src = "https://github-readme-stats.vercel.app/api?username=albertplata&show_icons=true&theme=tokyonight&hide=stars,prs,contribs">       <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=albertplata&layout=compact&theme=jolly">
 -->
 # Welcome bro
 I am an enthusiastic web developer of the Data world and the JS ecosystem, currently a **Data Engineer Intern** and a Data Science student
@@ -37,9 +42,15 @@ If you are looking for:
 
 I'm you're man 😎
 
-<img src = "https://github-readme-stats.vercel.app/api?username=albertplata&show_icons=true&theme=tokyonight&hide=stars,prs,contribs">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=albertplata&layout=compact&theme=jolly">
-
-
+<table>
+  <tr>
+    <th>
+      <img src = "https://github-readme-stats.vercel.app/api?username=albertplata&show_icons=true&theme=tokyonight&hide=stars,prs,contribs">
+    </th>
+    <th>
+      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=albertplata&layout=compact&theme=jolly">
+    </th>
+  </tr>
+</table>
 
 
