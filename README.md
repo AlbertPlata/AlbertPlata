@@ -26,6 +26,8 @@ Bugs solved, mysticism, lots of coffee and a big smile describe me
 
 WAKATIME
 
+[<img align="left" alt="audhiaprilliant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 <img src = "https://github-readme-stats.vercel.app/api?username=albertplata&show_icons=true&theme=tokyonight&hide=stars,prs,contribs">       <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=albertplata&layout=compact&theme=jolly">
 -->
