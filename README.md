@@ -30,7 +30,7 @@ WAKATIME
 <img src = "https://github-readme-stats.vercel.app/api?username=albertplata&show_icons=true&theme=tokyonight&hide=stars,prs,contribs">       <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=albertplata&layout=compact&theme=jolly">
 -->
 # Welcome bro
-I'm web developer, an enthusiast of the Data world and the JS ecosystem, currently a **Data Engineer Intern** and a Data Science student
+I'm web developer, an enthusiast of the Data World and the JS ecosystem, currently a **Data Engineer Intern** and a Data Science student
 
 Some words that define me:
 - 🐞🕵 Bugs solved
