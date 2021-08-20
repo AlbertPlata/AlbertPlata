@@ -24,6 +24,9 @@ extra repo <img src = "https://github-readme-stats.vercel.app/api/pin/?username=
 Bugs solved, mysticism, lots of coffee and a big smile describe me
 
 
+WAKATIME
+
+
 <img src = "https://github-readme-stats.vercel.app/api?username=albertplata&show_icons=true&theme=tokyonight&hide=stars,prs,contribs">       <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=albertplata&layout=compact&theme=jolly">
 -->
 # Welcome bro
