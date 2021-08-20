@@ -17,8 +17,7 @@ extra repo <img src = "https://github-readme-stats.vercel.app/api/pin/?username=
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=albertplata&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src = "https://github-readme-stats.vercel.app/api?username=albertplata&show_icons=true&theme=tokyonight&hide=stars,prs,contribs">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=albertplata&layout=compact">
-
 
 
